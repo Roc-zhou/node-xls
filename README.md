@@ -2,7 +2,7 @@
 
 ### 安装 node-xlsx 
 
-```
+```sh
 npm install --save node-xlsx
 ```
 
